@@ -8,9 +8,15 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 body {
     padding: 1vh 1vw;
     width: 98vw;
-	background: pink;
+	background: red;
     color: #fff;
     text-align: center;
     font-style: italic;
+    text-transform: uppercase;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 	font-family: 'Open Sans', sans-serif;
+    font-size: 3rem;
 }
